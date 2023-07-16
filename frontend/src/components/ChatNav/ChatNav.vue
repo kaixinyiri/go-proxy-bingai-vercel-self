@@ -78,7 +78,7 @@ const handleSelect = (key: string) => {
   switch (key) {
     case navType.version:
       {
-        message.success(`当前版本号为：${__APP_INFO__.version}`);
+        message.success(`当前版本号为1111：${__APP_INFO__.version}`);
       }
       break;
     case navType.chatService:
