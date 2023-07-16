@@ -36,8 +36,8 @@ const navType = {
 const navConfigs = [
   {
     key: navType.github,
-    label: '开源地址',
-    url: 'https://github.com/adams549659584/go-proxy-bingai',
+    label: '备用地址',
+    url: 'https://zhao.nwtbingmo.asia/web/NewBingGoGo.html',
   },
   {
     key: navType.version,
@@ -53,7 +53,7 @@ const navConfigs = [
   },
   {
     key: navType.setToken,
-    label: '设置用户',
+    label: '用户密码',
   },
   {
     key: navType.compose,
